@@ -63,4 +63,5 @@ The interpreter uses a tracking allocator (`talloc`) that:
 
 ## License
 
-[MIT License](LICENSE) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+ 
