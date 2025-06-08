@@ -25,7 +25,7 @@ A simple Scheme interpreter implemented in C, supporting basic evaluation of Sch
 The project includes a `justfile` for building. To build:
 
 ```bash
-just
+just build
 ```
 
 ## Usage
